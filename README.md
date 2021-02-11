@@ -6,7 +6,7 @@ ___
 ## Tareas:
 - Crear un **_nuevo repositorio_** en GitHub
 - Crear/Editar el archivo README.md
-- Crear una [web sencilla](https://github.com/JJorgeGaldo/JJG-CODE-11_02_2021)
+- Crear una [web sencilla](https://practica25code.netlify.app/)
 - Utilizar las Issues con varias funcionalidades
 - Emplear el VS Code para realizarlo
 ***
