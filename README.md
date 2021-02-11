@@ -6,7 +6,7 @@ ___
 ## Tareas:
 - Crear un **_nuevo repositorio_** en GitHub
 - Crear/Editar el archivo README.md
-- Crear una web sencilla
+- Crear una [web sencilla](http://example.com/)
 - Utilizar las Issues con varias funcionalidades
 - Emplear el VS Code para realizarlo
 ***
