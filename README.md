@@ -1,4 +1,4 @@
-# JJG-CODE-11_02_2021
+# P2.5-Jorge_Galdo_Juan-GitHub_VSCode
 Ejercicio práctico a realizar durante la calse de CODE del día 11/02/2021
 
 ___
